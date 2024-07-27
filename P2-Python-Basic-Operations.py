@@ -1,0 +1,10 @@
+x = int(input("Enter a number, x ...:"))
+y = int(input("Enter a number, y ...:"))
+
+print("The addition of the numbers is..:", x+y)
+print("The Subtraction of the numbers is..:", x-y)
+print("The multiplication of the numbers is..:", x*y)
+print("The division of the numbers is..:", x/y)
+print("The Floor division of the numbers is..:", x//y)
+print("The Exponent of the numbers is..:", x**y)
+print("The Modulus of the numbers is..:", x%y)
